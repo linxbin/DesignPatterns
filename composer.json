@@ -1,0 +1,23 @@
+{
+    "name": "linxb/php-design-patterns",
+    "description": "Examples of common design patterns in PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Linxb",
+            "email": "448923515@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": ""
+        }
+    }
+}
