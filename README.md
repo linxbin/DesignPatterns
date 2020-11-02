@@ -5,7 +5,7 @@
  - SimpleFactory（简单工厂模式）
  - StaticFactory（静态工厂模式）
  - Singleton（单例模式）
- - DependencyInjection（单例模式）
+ - DependencyInjection（依赖注入）
  - Observer（观察者模式）
  
  ## 运行
